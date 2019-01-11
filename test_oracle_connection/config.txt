@@ -1,0 +1,12 @@
+Commands to run
+  156  cd test_oracle_connection/
+  157  mvn compile
+  158  mvn dependecy:copy-dependecies
+  159  mvn dependency:copy-dependencies
+  160  mvn eclipse:eclipse
+  161  cd .local/share/applications/
+  
+  
+  need to update this
+  
+  settings-security.xml
